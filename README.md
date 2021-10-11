@@ -71,7 +71,8 @@ Signout: Signs a user out of the active session.
 <li> Adding database connectivity and looking in the database for valid credentials while logging in </li> (5)
 <li> Typos fixing and content enhancements </li> (2)
 <li> Enhancing the home page, making it the landing page </li> (4)
-<li> For any other enhancements, open the issue and I shall assign it if it is appropriate.</li>
+    <li> Enhance UI of login screen</li>
+    <li> For any other enhancements, open the issue and I shall assign it if it is appropriate.</li>
 
 <p> PS: For the issues that I have opened already, comment in the issue to let me know if you are taking it up. (like by commenting 'I would like to take this up')</p>
 <p> For any queries, contact me at 190020009@iitdh.ac.in </p>
